@@ -1,4 +1,4 @@
-export const profileName = "jnoncode";
+export const profileName = "Zeehad AL Sheikh";
 export const profileIntroduction =
-  "Hi, I'm a Software Developer. I like to make dev tools. I wish this boilerplate make it easy to build a blog for you.";
-export const profileGithubLink = "https://github.com/jnoncode";
+  "Hallow! This is Zeehad, a rising high schooler from middle of nowhere.";
+export const profileGithubLink = "https://github.com/saahzed";
